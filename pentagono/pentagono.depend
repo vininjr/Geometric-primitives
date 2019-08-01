@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1528826447 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/testes Trabalho/pentagono/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<X11/X.h>
+	<X11/keysym.h>
+
+1528826680 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/testes Trabalho/pentagono/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+	<bits/stdc++.h>
+
+1530234818 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/Trabalho final/pentagono/main.cpp
+	<GL/glut.h>
+	<glm/glm.hpp>
+	<vector>
+

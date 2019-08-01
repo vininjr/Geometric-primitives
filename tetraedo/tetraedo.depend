@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1529874494 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/Trabalho final/tetraedo/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/gl.h>
+	<vector>
+
+1530235810 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/Trabalho final/tetraedo/main1.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/gl.h>
+	<glm/glm.hpp>
+	<vector>
+	<math.h>
+

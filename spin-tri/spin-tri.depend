@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529221400 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/spin-tri/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<glm/glm.hpp>
+

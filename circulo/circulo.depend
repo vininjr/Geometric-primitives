@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528825678 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/testes Trabalho/circulo/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+	<bits/stdc++.h>
+	<iostream>
+
+1529967460 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/Trabalho final/circulo/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+	<bits/stdc++.h>
+	<iostream>
+

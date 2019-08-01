@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1528826159 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/testes Trabalho/cubo/main.cpp
+	<GL/glut.h>
+
+1530280242 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/Trabalho final/cubo/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<GL/gl.h>
+	<glm/glm.hpp>
+	<vector>
+	<math.h>
+

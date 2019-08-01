@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1528779228 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/testes Trabalho/triangulo/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+	<vector>
+
+1529371348 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/Trabalho final/triangulo/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+	<bits/stdc++.h>
+	<iostream>
+

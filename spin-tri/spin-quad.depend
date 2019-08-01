@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1491496489 source:/home/lunna/Documentos/UFC - Crateús/CG/codes/spin-quad/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1494613925 source:/home/lunna/Documentos/UFC - Crateús/CG/codes/spin-quad2/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1494616839 source:/home/lunna/Documentos/code-test/CGcodes/codes/spin-quad2/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1523284748 source:/home/lunna/Documentos/code-test/CGcodes/codes/spin-tri/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+

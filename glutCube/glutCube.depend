@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1495849518 source:/home/lunna/Documentos/UFC - Crateús/CG/codes/glutCube/main.cpp
+	<GL/glut.h>
+	<glm/vec3.hpp>
+	<glm/mat4x4.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"Camera.h"
+
+1495847164 source:/home/lunna/Documentos/UFC - Crateús/CG/codes/glutCube/src/Camera.cpp
+	"Camera.h"
+
+1495845567 /home/lunna/Documentos/UFC - Crateús/CG/codes/glutCube/include/Camera.h
+	<glm/glm.hpp>
+	<glm/vec3.hpp>
+
+1523900541 source:/home/lunna/Documentos/code-test/CGcodes/codes/glutCube/main.cpp
+	<GL/glut.h>
+	<glm/vec3.hpp>
+	<glm/mat4x4.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"Camera.h"
+
+1495845567 /home/lunna/Documentos/code-test/CGcodes/codes/glutCube/include/Camera.h
+	<glm/glm.hpp>
+	<glm/vec3.hpp>
+
+1495847164 source:/home/lunna/Documentos/code-test/CGcodes/codes/glutCube/src/Camera.cpp
+	"Camera.h"
+
+1495847164 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/glutCube/src/Camera.cpp
+	"Camera.h"
+
+1495845566 /home/marcus/Dropbox/Semestre 2018.1/Computação grafica/glutCube/include/Camera.h
+	<glm/glm.hpp>
+	<glm/vec3.hpp>
+
+1524499844 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/glutCube/main.cpp
+	<GL/glut.h>
+	<glm/glm.hpp>
+	<glm/vec3.hpp>
+	<glm/mat4x4.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"Camera.h"
+

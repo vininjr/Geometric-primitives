@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1528781184 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/testes Trabalho/quadrado/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+	<bits/stdc++.h>
+	<iostream>
+
+1530234423 source:/home/marcus/Dropbox/Semestre 2018.1/Computação grafica/Trabalho final/quadrado/main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<glm/glm.hpp>
+	<GL/glu.h>
+	<bits/stdc++.h>
+	<iostream>
+
